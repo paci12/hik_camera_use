@@ -1,0 +1,11 @@
+Info    2023-07-12 14:21:51:0031  DevID:()  Source-Line:MVGigEVisionSDK.dll(GigEVisionManager.cpp-L0157)  ProcessName:python.exe(16696)     Description:GigEVision Dll, Path[C:\Program Files (x86)\Common Files\MVS\Runtime\Win64_x64\MVGigEVisionSDK.dll]     Solution:
+Info    2023-07-12 14:21:51:0046  DevID:()  Source-Line:MVGigEVisionSDK.dll(GigEVisionManager.cpp-L0287)  ProcessName:python.exe(16696)     Description:Get Driver Mode, DriverMode[1]     Solution:
+Info    2023-07-12 14:21:51:0046  DevID:()  Source-Line:MVGigEVisionSDK.dll(GigEVisionManager.cpp-L1273)  ProcessName:python.exe(16696)     Description:Connecting device, GvspDstIP[169.254.175.151], GvspDstPort[58727], DeviceIP[169.254.29.88]     Solution:
+Info    2023-07-12 14:21:51:0046  DevID:()  Source-Line:MVGigEVisionSDK.dll(GigEVisionMsgChannel.cpp-L0195)  ProcessName:python.exe(16696)     Description:GigE EventThread Start, ThreadId[9980]     Solution:
+Info    2023-07-12 14:21:51:0281  DevID:()  Source-Line:MVGigEVisionSDK.dll(GigEVisionGVCP.cpp-L0042)  ProcessName:python.exe(16696)     Description:GVCP HeartBeatThread Start, ThreadId[4128]     Solution:
+Info    2023-07-12 14:21:51:0281  DevID:()  Source-Line:MVGigEVisionSDK.dll(GigEVisionManager.cpp-L1158)  ProcessName:python.exe(16696)     Description:Driver mode start!     Solution:
+Info    2023-07-12 14:21:51:0390  DevID:()  Source-Line:MVGigEVisionSDK.dll(GigEVisionManager.cpp-L3170)  ProcessName:python.exe(16696)     Description:Get Local Mtu, Value[1514]!     Solution:
+Info    2023-07-12 14:21:51:0395  DevID:()  Source-Line:MVGigEVisionSDK.dll(GigEVisionManager.cpp-L3249)  ProcessName:python.exe(16696)     Description:Read successed, Recv[8136]!     Solution:
+Info    2023-07-12 14:21:51:0395  DevID:()  Source-Line:MVGigEVisionSDK.dll(GigEVisionManager.cpp-L3286)  ProcessName:python.exe(16696)     Description:Get Optimal PacketSize, Size[8164]!     Solution:
+Info    2023-07-12 14:21:51:0438  DevID:()  Source-Line:MVGigEVisionSDK.dll(GigEVisionManager.cpp-L2314)  ProcessName:python.exe(16696)     Description:GigE StreamInterEventThread Start, ThreadId[15408]     Solution:
+Info    2023-07-12 14:21:51:0438  DevID:()  Source-Line:MVGigEVisionSDK.dll(GigEVisionManager.cpp-L2496)  ProcessName:python.exe(16696)     Description:GigE SendRsdCmdThread Start, ThreadId[7952]     Solution:

@@ -1,0 +1,369 @@
+2023-06-21 22:26:02,802 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:399] - INFO: start to run camera app, current_time: 2023-06-21 22:26:02.802149
+2023-06-21 22:26:02,814 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:65432
+ * Running on http://192.168.1.102:65432
+2023-06-21 22:26:02,814 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: [33mPress CTRL+C to quit[0m
+2023-06-21 22:26:02,815 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO:  * Restarting with stat
+2023-06-21 22:26:03,115 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:399] - INFO: start to run camera app, current_time: 2023-06-21 22:26:03.115145
+2023-06-21 22:26:03,122 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - WARNING:  * Debugger is active!
+2023-06-21 22:26:03,124 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO:  * Debugger PIN: 132-717-861
+2023-06-21 22:27:24,436 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:399] - INFO: start to run camera app, current_time: 2023-06-21 22:27:24.436283
+2023-06-21 22:27:24,446 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:65432
+2023-06-21 22:27:24,446 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: [33mPress CTRL+C to quit[0m
+2023-06-21 22:27:24,447 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO:  * Restarting with stat
+2023-06-21 22:27:24,748 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:399] - INFO: start to run camera app, current_time: 2023-06-21 22:27:24.748371
+2023-06-21 22:27:24,754 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - WARNING:  * Debugger is active!
+2023-06-21 22:27:24,756 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO:  * Debugger PIN: 132-717-861
+2023-06-21 22:27:48,296 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:27:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-06-21 22:27:48,385 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:27:48] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2023-06-21 22:27:48,386 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:27:48] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2023-06-21 22:27:48,423 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:27:48] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2023-06-21 22:27:48,448 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:27:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-06-21 22:34:47,541 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO:  * Detected change in 'E:\\Workspace\\camera_use\\Python\\webdemo\\HikRobotCamera.py', reloading
+2023-06-21 22:34:47,573 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO:  * Restarting with stat
+2023-06-21 22:38:26,050 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:398] - INFO: start to run camera app, current_time: 2023-06-21 22:38:26.050464
+2023-06-21 22:38:26,064 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:65432
+2023-06-21 22:38:26,064 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: [33mPress CTRL+C to quit[0m
+2023-06-21 22:38:26,065 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO:  * Restarting with stat
+2023-06-21 22:38:26,504 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:398] - INFO: start to run camera app, current_time: 2023-06-21 22:38:26.504601
+2023-06-21 22:38:26,510 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - WARNING:  * Debugger is active!
+2023-06-21 22:38:26,512 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO:  * Debugger PIN: 443-035-077
+2023-06-21 22:38:30,628 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:38:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2023-06-21 22:38:30,708 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:38:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2023-06-21 22:38:30,709 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:38:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2023-06-21 22:38:30,721 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:38:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-06-21 22:38:30,745 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:38:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2023-06-21 22:39:20,344 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:398] - INFO: start to run camera app, current_time: 2023-06-21 22:39:20.344088
+2023-06-21 22:39:20,357 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:65432
+2023-06-21 22:39:20,357 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: [33mPress CTRL+C to quit[0m
+2023-06-21 22:39:20,358 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO:  * Restarting with stat
+2023-06-21 22:39:20,662 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:398] - INFO: start to run camera app, current_time: 2023-06-21 22:39:20.661916
+2023-06-21 22:39:20,668 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - WARNING:  * Debugger is active!
+2023-06-21 22:39:20,670 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO:  * Debugger PIN: 443-035-077
+2023-06-21 22:39:22,797 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:39:22] "GET / HTTP/1.1" 200 -
+2023-06-21 22:39:22,808 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:63] - INFO: ================== startPreview start ====================
+2023-06-21 22:39:22,808 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:64] - INFO: start to preview video stream, current_time: 2023-06-21 22:39:22.808737
+2023-06-21 22:39:24,087 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:78] - INFO: startPreview -- start to open camera
+2023-06-21 22:39:24,087 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:80] - INFO: startPreview -- open camera ok
+2023-06-21 22:39:26,927 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:27,975 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:39:27] "GET /startPreview HTTP/1.1" 200 -
+2023-06-21 22:39:27,975 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:29,027 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:29,033 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:39:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-06-21 22:39:30,081 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:31,140 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:32,186 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:33,245 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:34,305 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:35,364 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:36,414 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:37,463 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:38,513 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:39,570 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:40,624 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:41,673 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:42,732 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:43,776 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:44,824 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:45,875 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:46,919 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:47,965 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:49,012 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:50,062 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:51,110 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:52,157 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:53,206 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:54,253 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:55,301 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:56,355 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:57,402 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:58,447 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:39:59,495 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:00,544 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:01,589 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:02,635 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:03,682 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:04,732 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:05,784 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:06,831 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:07,888 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:08,933 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:09,981 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:11,038 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:12,090 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:13,146 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:14,191 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:15,240 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:16,302 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:17,352 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:18,405 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:19,463 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:20,511 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:21,568 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:22,613 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:23,662 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:24,710 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:25,758 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:26,806 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:27,856 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:28,902 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:29,952 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:30,998 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:32,045 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:33,091 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:34,137 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:35,186 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:36,233 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:37,292 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:38,339 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:39,383 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:40,428 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:41,480 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:42,525 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:43,572 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:44,628 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:45,673 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:46,734 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:47,790 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:48,848 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:49,894 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:50,959 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:52,017 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:53,075 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:54,122 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:55,169 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:56,222 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:40:56,751 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:40:56] "GET / HTTP/1.1" 200 -
+2023-06-21 22:40:56,764 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:63] - INFO: ================== startPreview start ====================
+2023-06-21 22:40:56,764 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:64] - INFO: start to preview video stream, current_time: 2023-06-21 22:40:56.764970
+2023-06-21 22:40:56,897 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:78] - INFO: startPreview -- start to open camera
+2023-06-21 22:40:56,897 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:80] - INFO: startPreview -- open camera ok
+2023-06-21 22:40:57,874 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:89] - ERROR: startPreview error: Unknown C++ exception from OpenCV code
+2023-06-21 22:40:57,879 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:40:57] "[35m[1mGET /startPreview HTTP/1.1[0m" 500 -
+2023-06-21 22:41:12,071 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:398] - INFO: start to run camera app, current_time: 2023-06-21 22:41:12.071298
+2023-06-21 22:41:12,082 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:65432
+2023-06-21 22:41:12,082 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: [33mPress CTRL+C to quit[0m
+2023-06-21 22:41:12,083 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO:  * Restarting with stat
+2023-06-21 22:41:12,537 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:398] - INFO: start to run camera app, current_time: 2023-06-21 22:41:12.536115
+2023-06-21 22:41:12,545 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - WARNING:  * Debugger is active!
+2023-06-21 22:41:12,549 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO:  * Debugger PIN: 443-035-077
+2023-06-21 22:41:17,349 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:41:17] "GET / HTTP/1.1" 200 -
+2023-06-21 22:41:17,358 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:63] - INFO: ================== startPreview start ====================
+2023-06-21 22:41:17,358 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:64] - INFO: start to preview video stream, current_time: 2023-06-21 22:41:17.358456
+2023-06-21 22:41:18,502 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:78] - INFO: startPreview -- start to open camera
+2023-06-21 22:41:18,502 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:80] - INFO: startPreview -- open camera ok
+2023-06-21 22:41:21,142 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:22,188 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:41:22] "GET /startPreview HTTP/1.1" 200 -
+2023-06-21 22:41:22,189 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:23,241 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:24,294 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:25,355 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:26,402 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:27,461 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:28,510 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:29,568 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:30,629 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:31,677 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:32,739 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:33,790 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:34,836 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:35,898 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:36,944 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:37,989 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:39,034 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:40,080 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:41,126 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:42,172 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:43,218 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:44,263 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:45,309 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:46,355 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:41:47,401 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:09,358 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:398] - INFO: start to run camera app, current_time: 2023-06-21 22:42:09.358027
+2023-06-21 22:42:09,369 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:65432
+2023-06-21 22:42:09,370 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: [33mPress CTRL+C to quit[0m
+2023-06-21 22:42:09,370 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO:  * Restarting with stat
+2023-06-21 22:42:09,682 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:398] - INFO: start to run camera app, current_time: 2023-06-21 22:42:09.682643
+2023-06-21 22:42:09,687 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - WARNING:  * Debugger is active!
+2023-06-21 22:42:09,689 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO:  * Debugger PIN: 443-035-077
+2023-06-21 22:42:13,978 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:42:13] "GET / HTTP/1.1" 200 -
+2023-06-21 22:42:13,987 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:63] - INFO: ================== startPreview start ====================
+2023-06-21 22:42:13,987 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:64] - INFO: start to preview video stream, current_time: 2023-06-21 22:42:13.987663
+2023-06-21 22:42:15,108 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:78] - INFO: startPreview -- start to open camera
+2023-06-21 22:42:15,108 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:80] - INFO: startPreview -- open camera ok
+2023-06-21 22:42:17,866 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:18,915 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:42:18] "GET /startPreview HTTP/1.1" 200 -
+2023-06-21 22:42:18,915 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:19,962 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:21,007 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:22,052 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:23,099 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:24,150 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:25,197 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:26,243 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:27,288 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:28,333 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:29,381 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:30,430 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:31,475 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:32,523 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:33,573 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:34,619 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:35,665 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:36,710 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:37,758 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:38,803 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:39,849 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:40,893 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:41,941 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:42,986 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:44,030 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:45,078 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:46,124 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:47,170 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:48,216 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:49,262 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:50,307 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:51,352 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:52,399 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:53,442 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:54,489 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:55,535 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:56,584 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:57,629 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:58,676 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:42:59,725 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:43:00,774 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:43:51,467 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:96] - INFO: ================== stopPreview start ====================
+2023-06-21 22:43:51,467 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:97] - INFO: stop to preview video stream, current_time: 2023-06-21 22:43:51.467638
+2023-06-21 22:43:51,467 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:98] - INFO: start to close camera
+2023-06-21 22:43:51,467 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:104] - INFO: release resources start
+2023-06-21 22:43:51,743 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:112] - INFO: release resources end
+2023-06-21 22:43:51,743 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:113] - INFO: camera closed successfully, current_time: 2023-06-21 22:43:51.743195
+2023-06-21 22:43:51,743 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:114] - INFO: =================== stopPreview end ===================
+2023-06-21 22:43:51,743 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:220] - INFO: ======================================
+2023-06-21 22:43:51,743 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:221] - INFO: start to grab image, current_time: 2023-06-21 22:43:51.743195
+2023-06-21 22:43:52,184 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:239] - INFO: find 1 devices!
+2023-06-21 22:43:52,185 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:244] - INFO: 
+gige device: [0]
+2023-06-21 22:43:52,185 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:248] - INFO: device model name: MV-CS032-10GM                   
+2023-06-21 22:43:52,185 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:254] - INFO: current ip: 169.254.175.254
+
+2023-06-21 22:43:52,889 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:333] - INFO: get one frame: Width[2048], Height[1536], nFrameNum[1]
+2023-06-21 22:43:52,890 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:349] - INFO: nImageLen: 3145728
+2023-06-21 22:43:52,901 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:366] - INFO: Save Image succeed!
+2023-06-21 22:43:53,014 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:43:53] "GET /hik/openAndSave2 HTTP/1.1" 200 -
+2023-06-21 22:44:10,439 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:173] - INFO: ================= openAndSave start =====================
+2023-06-21 22:44:10,439 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:96] - INFO: ================== stopPreview start ====================
+2023-06-21 22:44:10,439 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:97] - INFO: stop to preview video stream, current_time: 2023-06-21 22:44:10.439959
+2023-06-21 22:44:10,439 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:98] - INFO: start to close camera
+2023-06-21 22:44:10,439 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:104] - INFO: release resources start
+2023-06-21 22:44:10,439 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:112] - INFO: release resources end
+2023-06-21 22:44:10,439 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:113] - INFO: camera closed successfully, current_time: 2023-06-21 22:44:10.439959
+2023-06-21 22:44:10,439 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:114] - INFO: =================== stopPreview end ===================
+2023-06-21 22:44:10,439 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:176] - INFO: start to grab image, current_time: 2023-06-21 22:44:10.439959
+2023-06-21 22:44:11,542 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:186] - INFO: openAndSave -- start to open camera
+2023-06-21 22:44:11,542 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:188] - INFO: openAndSave -- open camera ok
+2023-06-21 22:44:14,239 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:198] - DEBUG: openAndSave -- Grab true
+2023-06-21 22:44:15,285 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:96] - INFO: ================== stopPreview start ====================
+2023-06-21 22:44:15,285 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:97] - INFO: stop to preview video stream, current_time: 2023-06-21 22:44:15.285230
+2023-06-21 22:44:15,285 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:98] - INFO: start to close camera
+2023-06-21 22:44:15,285 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:104] - INFO: release resources start
+2023-06-21 22:44:15,547 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:112] - INFO: release resources end
+2023-06-21 22:44:15,547 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:113] - INFO: camera closed successfully, current_time: 2023-06-21 22:44:15.547961
+2023-06-21 22:44:15,547 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:114] - INFO: =================== stopPreview end ===================
+2023-06-21 22:44:15,547 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:209] - INFO: ================= openAndSave end =====================
+2023-06-21 22:44:15,549 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:44:15] "GET /hik/openAndSave HTTP/1.1" 200 -
+2023-06-21 22:44:40,966 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:63] - INFO: ================== startPreview start ====================
+2023-06-21 22:44:40,966 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:64] - INFO: start to preview video stream, current_time: 2023-06-21 22:44:40.966725
+2023-06-21 22:44:42,028 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:78] - INFO: startPreview -- start to open camera
+2023-06-21 22:44:42,028 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:80] - INFO: startPreview -- open camera ok
+2023-06-21 22:44:44,928 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:44:45,974 - E:\anaconda3\envs\camera_use\lib\site-packages\werkzeug\_internal.py[line:186] - INFO: 127.0.0.1 - - [21/Jun/2023 22:44:45] "GET /startPreview HTTP/1.1" 200 -
+2023-06-21 22:44:45,974 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:44:47,022 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:44:48,068 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:44:49,120 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:44:50,165 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:44:51,210 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:44:52,257 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:44:53,304 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:44:54,351 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:44:55,401 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:44:56,446 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:44:57,492 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:44:58,538 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:44:59,584 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:00,630 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:01,677 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:02,725 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:03,769 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:04,816 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:05,862 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:06,909 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:07,955 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:08,999 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:10,045 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:11,090 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:12,135 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:13,183 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:14,229 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:15,276 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:16,325 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:17,375 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:18,423 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:19,469 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:20,514 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:21,561 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:22,605 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:23,653 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:24,713 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:25,762 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:26,807 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:27,853 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:28,899 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:29,945 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:30,990 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:32,039 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:33,087 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:34,132 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:35,177 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:36,222 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:37,267 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:38,313 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:39,359 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:40,404 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:41,448 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:42,494 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:43,539 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:44,585 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:45,631 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:46,676 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:47,728 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:48,774 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:49,819 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:50,866 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:51,912 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:52,957 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:54,003 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:55,049 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:56,095 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:57,140 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:58,186 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:45:59,232 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:46:00,276 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:46:01,325 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:46:02,370 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:46:03,418 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:46:04,467 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:46:05,514 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:46:06,560 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:46:07,606 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:46:08,672 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
+2023-06-21 22:46:09,721 - E:\Workspace\camera_use\Python\webdemo\HikRobotCamera.py[line:46] - DEBUG: Grab true
